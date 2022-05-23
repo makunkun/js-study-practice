@@ -1,0 +1,19 @@
+{
+  "name": "js-study-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makunkun/js-study-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makunkun/js-study-practice/issues"
+  },
+  "homepage": "https://github.com/makunkun/js-study-practice#readme"
+}
